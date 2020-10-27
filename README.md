@@ -9,7 +9,7 @@ Why: Gap in the available training to advanced application development with CDK
 
 In a series of emails, we will guide you through the process of building advanced CDK apps.
 
-This workshop is a continuation of the AWS CDK workshop. The official CDK workshop introduces and touches on a lot of topics, but leaves you after you create a Serverless CDK app. It's hard to do the jump to more complex applications without pointers and ideas on what to do next.
+This workshop is a continuation of the AWS CDK workshop. The official CDK workshop introduces and touches on a lot of topics, but it's hard to do the jump to more complex applications without pointers and ideas on what to do next.
 
 ### Scenario:
 
