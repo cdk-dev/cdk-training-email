@@ -37,3 +37,15 @@ Our first tries with the aws-cdk in *dev* were successful, but now it's importan
     - AWS solutions lib
 - How to read the documentation and find examples like Gists on Github. (Eg: How the * do I construct an EBS volume property?)
 - Env variables  and context files
+
+
+## Format:
+
+This will be a series of email that are send out in a regular cadence every couple days. The idea is to split up this workshop in bite size pieces that you can follow at your own pace. 
+As an alternative it can be also available in PDF format for people who dislike the format.
+
+
+
+
+
+
