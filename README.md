@@ -19,7 +19,6 @@ Our first tries with the aws-cdk in *dev* were successful, but now it's importan
 
 ### The architecture:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ebd2615-e804-428b-adab-c945cac18283/Blank_diagram.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ebd2615-e804-428b-adab-c945cac18283/Blank_diagram.jpeg)
 ![image](https://user-images.githubusercontent.com/45762661/97349778-2fb9e000-1890-11eb-945e-e274b50e3f07.png)
 
 
