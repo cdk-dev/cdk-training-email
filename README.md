@@ -15,12 +15,11 @@ This workshop is a continuation of the AWS CDK workshop. The official CDK worksh
 
 We started introducing AWS-CDK at Moonwalk inc. and are now tasked to develop and deploy a new customer-facing application consisting of a frontend and a backend.
 
-Our first tries with the aws-cdk in *dev* were successful, but now it's important that we adhere to company policy. That means we have to deploy the app via CI/CD pipelines, ensure security, write unit tests and deploy in DR resilient way.
+Our first tries with the aws-cdk in *dev* were successful, but now we must adhere to company policy. That means we have to deploy the app via CI/CD pipelines, ensure security, write unit tests and deploy in DR resilient way.
 
 ### The architecture:
 
 ![image](https://user-images.githubusercontent.com/45762661/97349778-2fb9e000-1890-11eb-945e-e274b50e3f07.png)
-
 
 ## Topics to cover:
 
@@ -38,14 +37,7 @@ Our first tries with the aws-cdk in *dev* were successful, but now it's importan
 - How to read the documentation and find examples like Gists on Github. (Eg: How the * do I construct an EBS volume property?)
 - Env variables  and context files
 
-
 ## Format:
 
-This will be a series of email that are send out in a regular cadence every couple days. The idea is to split up this workshop in bite size pieces that you can follow at your own pace. 
-As an alternative it can be also available in PDF format for people who dislike the format.
-
-
-
-
-
-
+This will be a series of email that is sent out in a regular cadence every couple days. The idea is to split up this workshop in bite-size pieces that you can follow at your own pace. 
+As an alternative, it can be also available in PDF format for people who dislike the format.
